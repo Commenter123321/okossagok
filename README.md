@@ -7,6 +7,7 @@ Ahogy fejlődünk és újabb programokat vagy parancsokat ismerünk meg, az beke
 - ### [Windows](/Windows)
     - [Aktiválás](/Windows/Aktiválás.md)
     - [Office + aktiválás](/Windows/Office.md)
+    - [Optimalizálás](/Windows/Debloat.md)
 - ### [Linux](/Linux)
     - [Debian 12 (KDE)](/Linux/Debian%2012%20(KDE))
     - [Gentoo (KDE)](/Linux/Gentoo%20(KDE))
